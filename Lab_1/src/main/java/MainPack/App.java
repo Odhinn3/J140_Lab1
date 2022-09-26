@@ -14,7 +14,7 @@ import views.PersonStage;
 
 /**
  *
- * @author denis
+ * @author
  */
 public class App extends Application {
     

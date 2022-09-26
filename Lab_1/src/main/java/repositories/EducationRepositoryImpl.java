@@ -18,7 +18,7 @@ import models.Person;
 
 /**
  *
- * @author user
+ * @author 
  */
 public class EducationRepositoryImpl implements EducationRepository {
     

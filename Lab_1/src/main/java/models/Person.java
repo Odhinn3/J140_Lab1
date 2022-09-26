@@ -8,7 +8,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author denis
+ * @author 
  */
 public class Person {
     private Integer id;

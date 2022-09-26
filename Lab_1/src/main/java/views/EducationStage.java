@@ -20,7 +20,7 @@ import repositories.EducationRepositoryImpl;
 
 /**
  *
- * @author user
+ * @author
  */
 public class EducationStage {
     private Stage stage;

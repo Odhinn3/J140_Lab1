@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author denis
+ * @author 
  */
 public class ApplicationProperties extends Properties{
     private static ApplicationProperties ap;

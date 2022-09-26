@@ -8,7 +8,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author user
+ * @author
  */
 public class EducationTable {
     private String universityname;

@@ -10,7 +10,7 @@ import models.Person;
 
 /**
  *
- * @author user
+ * @author
  */
 public interface EducationRepository {
     List<Education> getEducationByPersonId(int personId);

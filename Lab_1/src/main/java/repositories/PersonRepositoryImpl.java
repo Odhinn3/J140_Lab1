@@ -13,7 +13,7 @@ import MainPack.ApplicationProperties;
 
 /**
  *
- * @author denis
+ * @author
  */
 public class PersonRepositoryImpl implements PersonRepository{
 

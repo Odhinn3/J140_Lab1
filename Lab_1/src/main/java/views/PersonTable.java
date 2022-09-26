@@ -6,7 +6,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author denis
+ * @author
  */
 public class PersonTable {
     private Integer id;

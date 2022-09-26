@@ -17,7 +17,7 @@ import repositories.*;
 
 /**
  *
- * @author denis
+ * @author
  */
 public class PersonStage{
     

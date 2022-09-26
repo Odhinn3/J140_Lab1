@@ -9,7 +9,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author denis
+ * @author
  */
 public class Education {
     private Integer id;
